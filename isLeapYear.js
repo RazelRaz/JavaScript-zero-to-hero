@@ -6,5 +6,5 @@ function isLeapYear(year){
     return "Not A Leap year";
 }
 
-const result = isLeapYear(2021);
+const result = isLeapYear(2024);
 console.log(result);
