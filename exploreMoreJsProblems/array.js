@@ -13,7 +13,7 @@ console.log(typeof arr);
 // check is array or not
 console.log(Array.isArray(arr));
 
-//is anything avaiable in array or not
+//is anything available  in array or not
 console.log(arr.includes("helo"));
 
 
